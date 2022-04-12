@@ -156,9 +156,10 @@ footer{
     text-align:center;
     background-color:#c41449;
 }
-.timeline{
-    margin: 90px,auto;
-    width: 360px;
-    border-left: 2px solid #fff;
-    padding: 0 20px 0 30px;
+.youtube {
+    width: 147vh;
+    height: 90vh;
+    text-align: center;
+
+
 }
