@@ -8,7 +8,7 @@ header{
     padding: 40px;
     text-align: center;
     color: rgb(8, 8, 8);
-    background-color: deepskyblue;
+    background-color: rgb(194, 230, 241);
     display: flex;
     }
 *{
@@ -141,9 +141,9 @@ article{
     padding: 20px;
 }
 aside{
-    flex:30px;
-    background-color: rgb(222, 189, 253);
-    padding:20px;
+    background-color: aliceblue;
+    grid-column: 4/5;
+    padding: 10px;
 }
 section{
     flex: 10px;
@@ -155,4 +155,10 @@ footer{
     width: 1880px;
     text-align:center;
     background-color:#c41449;
+}
+.timeline{
+    margin: 90px,auto;
+    width: 360px;
+    border-left: 2px solid #fff;
+    padding: 0 20px 0 30px;
 }
