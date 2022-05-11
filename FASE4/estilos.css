@@ -19,12 +19,12 @@ header{
     box-sizing: border-box;
 }
 body{
-    background: #c41449;
+    background: #6079e7;
 }
 .navegacion{
     width: 1000px;
     margin:auto;
-    background: #c41449;
+    background: #e77396;
     display: flex;
 }
 .navegacion ul{
@@ -76,7 +76,7 @@ opacity: 1;
 }
 .submenu1{
     position: absolute;
-    background: #ad0f8b;
+    background: #b3429a;
     width: 150px;
     visibility: hidden;
     opacity: 0;
@@ -137,7 +137,7 @@ flex-wrap: wrap;
 }
 article{
     flex: 70px;
-    background-color: blueviolet;
+    background-color: rgb(196, 158, 231);
     padding: 20px;
 }
 aside{
@@ -154,7 +154,7 @@ footer{
     padding: 40px;
     width: 1880px;
     text-align:center;
-    background-color:#c41449;
+    background-color:#ee7d9f;
 }
 @media screen and (max-width:600px) {
     header{
